@@ -1,0 +1,15 @@
+{
+  "name": "মা হাজরা মেডিকেল",
+  "short_name": "মা হাজরা",
+  "description": "মা হাজরা মেডিকেল, জাইরুর মোড়, নন্দীগ্রাম – অনলাইন ডাক্তার ও অ্যাপয়েন্টমেন্ট",
+  "lang": "bn",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6fbfa",
+  "theme_color": "#0f8b7d",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
